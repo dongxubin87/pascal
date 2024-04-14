@@ -1,0 +1,5 @@
+﻿  pascal.c
+C:\Users\e2301515\source\repos\appdev\pascaltriangle\pascal.c(6,3): warning C4013: 'gotoXY' undefined; assuming extern returning int
+C:\Users\e2301515\source\repos\appdev\pascaltriangle\pascal.c(9,18): warning C4013: 'binomial' undefined; assuming extern returning int
+C:\Users\e2301515\source\repos\appdev\pascaltriangle\pascal.c(15,9): warning C4013: 'factorial' undefined; assuming extern returning int
+  pascaltriangle.vcxproj -> C:\Users\e2301515\source\repos\appdev\x64\Debug\pascaltriangle.exe
